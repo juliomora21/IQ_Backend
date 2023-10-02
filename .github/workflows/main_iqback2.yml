@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'IQBACK2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_32CBD534532F4D79A7BB444CC373BD00 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C4750829B0284B6ABB5D886A09DEDEFF }}
